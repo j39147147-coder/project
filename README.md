@@ -88,8 +88,8 @@ The slider can be integrated into any website to showcase products, events, trav
 The **Dynamic Image Slider** project successfully demonstrates how to build an engaging and efficient web component using frontend technologies. It not only enhances visual appeal but also provides an interactive user experience with minimal coding effort.
 
 By fetching image data dynamically, the slider ensures flexibility and scalability — allowing developers or content managers to update visuals easily without modifying the site structure.
-deployment link:
-Repository link:
+deployment link:https://j39147147-coder.github.io/project/
+Repository link:https://github.com/j39147147-coder/project.git
 developed by  JOTHI M
 
 
